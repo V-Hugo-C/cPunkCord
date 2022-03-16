@@ -30,8 +30,10 @@ Aplicação baseada no Discord tematicamente Cyber Punk
 
 ### ✅ Demo
 <img src="https://c-punk-cord-n7cf7f9b8-v-hugo-c.vercel.app/"/>
+ 
 ### ⚙ Pré-requisitos
 Before starting, you'll need to have Git, Node.js or Yarn. Also, an IDE is recommended for editing the code. I recommend VSCode.
+ 
 ### 📗 Running the application
 
 ```
