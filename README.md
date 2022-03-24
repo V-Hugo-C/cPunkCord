@@ -14,8 +14,7 @@ Projeto feito durante  a Imersão React com @alura @mariosouto
 
 <p align="center">Descrição"</p>
 
-<p align="center">
-<a href="#-prerequisites">Pré-requisitos</a>   |   
+<p align="center"> 
 <a href="#-technologies">Tecnologias</a>   |   
 <a href="#-license">Licença</a>
 </p>
